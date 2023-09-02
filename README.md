@@ -1,2 +1,1 @@
-Hi,I am Luoba , a student in Harbin, China.
-All code is just used to memorize deeply. I am just freshman in coding.
+此branch用来记录Matlab在大学中的使用
